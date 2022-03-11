@@ -26,7 +26,7 @@ from cvzone.FaceDetectionModule import FaceDetector
 
 
 RTC_CONFIGURATION = RTCConfiguration(
-    {"iceServers": [{"urls": ["stun:stun.l.google.com:19302"]}]}
+    {"iceServers": [{"urls": ["stun:stun.l.google.com:3389"]}]}
 )
 
 #Create a dict for classes
